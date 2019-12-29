@@ -1,0 +1,2 @@
+# northcore
+Home automation suite
